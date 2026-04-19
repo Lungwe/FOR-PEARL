@@ -33,14 +33,14 @@ Edit the `config.js` file to personalize your love website:
 ```javascript
 const CONFIG = {
     // Your partner's name (will be used throughout the website)
-    partnerName: "Your Love's Name",
+    partnerName: "PEARL",
     
     // Your name (optional, for signature)
-    yourName: "Your Name",
+    yourName: "Given",
     
     // Custom messages
     messages: {
-        subtitle: "you light up my world in ways words can't express ✨",
+        subtitle: "you light up my world in ways words can't express i love you in ways words cant explain deep down in my heart will be your home .FROM the first day nilikuona I loved you nakupenda ✨",
         loveNote: "your personalized love message here...",
         // ... more customizable messages
     }
